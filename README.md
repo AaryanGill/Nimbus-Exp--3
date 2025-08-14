@@ -22,4 +22,4 @@ Click the Dark Mode checkbox in the header to toggle between light and dark them
 This project demonstrates how to build a functional and minimal admin dashboard layout using CSS Grid for layout management and JavaScript for theme toggling. It’s ideal for beginners learning responsive layouts and UI theming.
 
 ## License
-This project is open-source and available under the [MIT License](https://github.com/AaryanGill/Nimbus-Exp--1-/blob/a7329bb7b417f8544e1be213df6d508bef9e5ade/MIT%20License).
+This project is open-source and available under the [MIT License](https://github.com/AaryanGill/Nimbus-Exp--3/blob/cf81b4fa3ce9059a7136d85cfb12d23091765c3b/MIT%20License).
